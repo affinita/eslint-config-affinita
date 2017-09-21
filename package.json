@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-affinita",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "This is the eslint configuration from Affinita.",
   "main": "index.js",
   "scripts": {
