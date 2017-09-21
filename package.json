@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-affinita",
+  "version": "0.1.0",
+  "description": "This is the eslint configuration from Affinita.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affinita/eslint-config-affinita.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "affinita",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Affinita <coding.affinita@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/affinita/eslint-config-affinita/issues"
+  },
+  "homepage": "https://github.com/affinita/eslint-config-affinita#readme"
+}
