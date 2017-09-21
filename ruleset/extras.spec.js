@@ -1,0 +1,23 @@
+/**
+ * Copyright (c) 2017, Affinata. All rights reserved.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+const extras = require('./extras');
+
+describe('Extras', () => {
+  it('should have the plugin "extra-rules" applied', () => {
+    expect(extras.plugins).toEqual((expect.arrayContaining(['extra-rules'])));
+  });
+  it('should have "no-commented-out-code" set to "error"', () => {
+    expect(extras.rules['extra-rules/no-commented-out-code']).toEqual(2);
+  });
+  it('should have "no-single-line-objects" set to "warning"', () => {
+    expect(extras.rules['extra-rules/no-single-line-objects']).toEqual(1);
+  });
+  it('should have "potential-point-free" set to "warning"', () => {
+    expect(extras.rules['extra-rules/potential-point-free']).toEqual(1);
+  });
+});

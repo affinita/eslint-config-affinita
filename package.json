@@ -4,7 +4,8 @@
   "description": "This is the eslint configuration from Affinita.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -26,7 +27,9 @@
   "homepage": "https://github.com/affinita/eslint-config-affinita#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.0"
+    "babel-preset-env": "^1.6.0",
+    "coveralls": "^2.13.1",
+    "jest": "^21.1.0"
   },
   "dependencies": {
     "babel-eslint": "^8.0.0",
