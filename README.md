@@ -1,8 +1,8 @@
 # Affinita eslint configuration
 
-[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-affinita.svg?branch=master)](https://travis-ci.org/affinita/eslint-config-affinita)
+[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-affinita.svg?branch=development)](https://travis-ci.org/affinita/eslint-config-affinita)
 [![GitHub release](https://img.shields.io/github/release/affinita/eslint-config-affinita.svg)]()
-[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-affinita/badge.svg?branch=master)](https://coveralls.io/github/affinita/eslint-config-affinita?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-affinita/badge.svg?branch=development)](https://coveralls.io/github/affinita/eslint-config-affinita?branch=development)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 This eslint configuration extends the default configuration from
