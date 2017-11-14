@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-virtuous",
+  "name": "@virtuous/eslint-config",
   "version": "1.2.0",
   "description": "This is the eslint configuration from Virtuous.",
   "main": "./ruleset/index.js",

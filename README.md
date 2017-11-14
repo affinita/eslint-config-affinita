@@ -13,7 +13,7 @@ to start with it.
 ## Installation
 
 ```
-npm i eslint-config-virtuous --save-dev
+npm i @virtuous/eslint-config --save-dev
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Add the following to the .eslintrc in your project:
 
 ```
 {
-  "extends": "affinita",
+  "extends": "@virtuous/eslint-config",
   ...
 }
 ```
