@@ -2,8 +2,8 @@
 
 [![Travis CI Build](https://travis-ci.org/bevirtuous/eslint-config-virtuous.svg?branch=master)](https://travis-ci.org/bevirtuous/eslint-config-virtuous)
 [![GitHub release](https://img.shields.io/github/release/bevirtuous/eslint-config-virtuous.svg)]()
-[![npm version](https://badge.fury.io/js/@virtuous/eslint-config.svg)](https://www.npmjs.com/package/@virtuous/eslint-config)
-[![Coverage Status](https://coveralls.io/repos/github/bevirtuous/eslint-config-virtuous/badge.svg?branch=master)](https://coveralls.io/github/bevirtuous/eslint-config-virtuous?branch=master)
+[![npm version](https://badge.fury.io/js/%40virtuous%2Feslint-config.svg)](https://www.npmjs.com/package/@virtuous/eslint-config)
+[![Coverage Status](https://coveralls.io/repos/github/bevirtuous/eslint-config-virtuous/badge.svg?branch=master)](https://coveralls.io/github/bevirtuous/eslint-config-virtuous)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 This eslint configuration extends the default configuration from
