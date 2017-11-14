@@ -1,8 +1,8 @@
 # Virtuous eslint configuration
 
-[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-virtuous.svg?branch=development)](https://travis-ci.org/affinita/eslint-config-virtuous)
+[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-virtuous.svg?branch=master)](https://travis-ci.org/affinita/eslint-config-virtuous)
 [![GitHub release](https://img.shields.io/github/release/affinita/eslint-config-virtuous.svg)]()
-[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-virtuous/badge.svg?branch=development)](https://coveralls.io/github/affinita/eslint-config-virtuous?branch=development)
+[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-virtuous/badge.svg?branch=master)](https://coveralls.io/github/affinita/eslint-config-virtuous?branch=master)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 This eslint configuration extends the default configuration from
