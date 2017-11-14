@@ -1,8 +1,8 @@
-# Affinita eslint configuration
+# Virtuous eslint configuration
 
-[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-affinita.svg?branch=development)](https://travis-ci.org/affinita/eslint-config-affinita)
-[![GitHub release](https://img.shields.io/github/release/affinita/eslint-config-affinita.svg)]()
-[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-affinita/badge.svg?branch=development)](https://coveralls.io/github/affinita/eslint-config-affinita?branch=development)
+[![Travis CI Build](https://travis-ci.org/affinita/eslint-config-virtuous.svg?branch=development)](https://travis-ci.org/affinita/eslint-config-virtuous)
+[![GitHub release](https://img.shields.io/github/release/affinita/eslint-config-virtuous.svg)]()
+[![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-virtuous/badge.svg?branch=development)](https://coveralls.io/github/affinita/eslint-config-virtuous?branch=development)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 This eslint configuration extends the default configuration from
@@ -12,7 +12,7 @@ to start with it.
 ## Installation
 
 ```
-npm i eslint-config-affinita --save-dev
+npm i eslint-config-virtuous --save-dev
 ```
 
 ## Usage
@@ -228,6 +228,6 @@ static propTypes = {
 
 ## License
 
-Affinita's eslint configuration is available under the MIT License.
+Virtuous' eslint configuration is available under the MIT License.
 
 See the [LICENSE](./LICENSE) file for more information.

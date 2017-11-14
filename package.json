@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-affinita",
-  "version": "1.1.0",
-  "description": "This is the eslint configuration from Affinita.",
+  "name": "eslint-config-virtuous",
+  "version": "0.0.1",
+  "description": "This is the eslint configuration from Virtuous.",
   "main": "./ruleset/index.js",
   "scripts": {
     "test": "jest",
@@ -9,35 +9,35 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affinita/eslint-config-affinita.git"
+    "url": "git+https://github.com/affinita/eslint-config-virtuous.git"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
     "config",
-    "affinita",
+    "virtuous",
     "javascript",
     "styleguide"
   ],
-  "author": "Affinita <coding.affinita@gmail.com>",
+  "author": "Virtuous <coding.affinita@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/affinita/eslint-config-affinita/issues"
+    "url": "https://github.com/affinita/eslint-config-virtuous/issues"
   },
-  "homepage": "https://github.com/affinita/eslint-config-affinita#readme",
+  "homepage": "https://github.com/affinita/eslint-config-virtuous",
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "coveralls": "^2.13.1",
-    "jest": "^21.1.0"
+    "babel-preset-env": "^1.6.1",
+    "coveralls": "^3.0.0",
+    "jest": "^21.2.1"
   },
   "dependencies": {
-    "babel-eslint": "^8.0.0",
-    "eslint": "4.7.2",
-    "eslint-config-airbnb": "15.1.0",
+    "babel-eslint": "8.0.2",
+    "eslint": "4.11.0",
+    "eslint-config-airbnb": "16.1.0",
     "eslint-plugin-extra-rules": "0.8.1",
-    "eslint-plugin-import": "2.7.0",
-    "eslint-plugin-jsx-a11y": "5.1.1",
-    "eslint-plugin-react": "7.3.0"
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "7.4.0"
   }
 }
