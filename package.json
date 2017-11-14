@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affinita/eslint-config-virtuous.git"
+    "url": "git+https://github.com/bevirtuous/eslint-config-virtuous.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
   "author": "Virtuous <coding.affinita@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/affinita/eslint-config-virtuous/issues"
+    "url": "https://github.com/bevirtuous/eslint-config-virtuous/issues"
   },
-  "homepage": "https://github.com/affinita/eslint-config-virtuous",
+  "homepage": "https://github.com/bevirtuous/eslint-config-virtuous",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
