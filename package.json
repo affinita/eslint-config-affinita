@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-virtuous",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This is the eslint configuration from Virtuous.",
   "main": "./ruleset/index.js",
   "scripts": {
