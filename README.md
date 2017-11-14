@@ -2,7 +2,7 @@
 
 [![Travis CI Build](https://travis-ci.org/affinita/eslint-config-virtuous.svg?branch=master)](https://travis-ci.org/affinita/eslint-config-virtuous)
 [![GitHub release](https://img.shields.io/github/release/affinita/eslint-config-virtuous.svg)]()
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/eslint-config-virtuous)
+[![npm version](https://badge.fury.io/js/eslint-config-virtuous.svg)](https://www.npmjs.com/package/eslint-config-virtuous)
 [![Coverage Status](https://coveralls.io/repos/github/affinita/eslint-config-virtuous/badge.svg?branch=master)](https://coveralls.io/github/affinita/eslint-config-virtuous?branch=master)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
