@@ -26,11 +26,12 @@
   },
   "homepage": "https://github.com/bevirtuous/eslint-config-virtuous",
   "devDependencies": {
+    "babel-core": "^6.26.3",
     "coveralls": "^3.0.0",
-    "jest": "^23.3.0"
+    "jest": "^23.4.2"
   },
   "dependencies": {
-    "babel-eslint": "^8.2.5",
+    "babel-eslint": "^8.2.6",
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-extra-rules": "^0.8.1",
@@ -39,6 +40,6 @@
     "eslint-plugin-react": "^7.9.1"
   },
   "peerDependencies": {
-    "babe-core": "6.x"
+    "babe-core": "6"
   }
 }
