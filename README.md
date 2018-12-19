@@ -6,6 +6,8 @@
 [![npm version](https://badge.fury.io/js/%40virtuous%2Feslint-config.svg)](https://www.npmjs.com/package/@virtuous/eslint-config)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
 
+**THIS REPOSITORY IS NOT MAINTAINED ANYMORE. Its contents have been moved to [https://github.com/bevirtuous/tools](https://github.com/bevirtuous/tools).**
+
 This eslint configuration extends the default configuration from
 [Airbnb](https://github.com/airbnb/javascript). It brings everything you need
 to start with it.
